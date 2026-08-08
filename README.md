@@ -2,7 +2,7 @@
  
 **Identity and access management.** MSc Cyber Security and Forensic IT, University of Portsmouth.
  
-Most cells in an access matrix should be empty. The interesting work is proving that the ones that aren't belong there — which is where I've chosen to specialise after a background in penetration testing and digital forensics.
+Most cells in an access matrix should be empty. The interesting work is proving that the ones that aren't belong there, which is where I've chosen to specialise after a background in penetration testing and digital forensics.
  
 ---
  
@@ -12,7 +12,7 @@ Most cells in an access matrix should be empty. The interesting work is proving 
  
 I seeded segregation-of-duties conflicts and privilege accumulation into it deliberately, so the review process has something real to catch rather than clean data confirming itself. PowerShell automates detection of those conflicts across role assignments.
  
-Covers joiner-mover-leaver workflows through access packages, Conditional Access, Privileged Identity Management for just-in-time admin access, and quarterly access reviews. *In progress, September–October 2026.*
+Covers joiner-mover-leaver workflows through access packages, Conditional Access, Privileged Identity Management for just-in-time admin access, and quarterly access reviews. *In progress, September-October 2026.*
  
 ---
  
